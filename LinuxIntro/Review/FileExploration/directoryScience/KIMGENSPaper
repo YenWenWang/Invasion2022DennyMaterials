@@ -1,0 +1,12 @@
+Kinship estimation is necessary for evaluating violations of assumptions 
+or testing certain hypotheses in many population genomic studies. However, 
+kinship estimators are usually designed for diploid systems and cannot be 
+used in populations with mixed haploid diploid genetic systems. The data 
+presented here reveal that the k-anatomy method (KA) is a valid and 
+efficient tool to estimate lineage relationships in such a system. In 
+particular, we show how the k-anatomy method can be easily extended to the 
+case where there is only one type of lineage, as in the Drosophila 
+melanogaster population. By applying this technique to an ancestral 
+population sampled from multiple sites across Europe, it was possible to 
+reconstruct migratory movements spanning over 4500 years: a remarkable 
+accomplishment considering the very short time scales involved.
